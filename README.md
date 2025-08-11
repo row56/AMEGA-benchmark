@@ -2,7 +2,7 @@
 
 The paper was published in December 2024 in NPJ Digital Medicine: https://www.nature.com/articles/s41746-024-01356-6
 
-For citations, please use the details below.
+For citations, please use the details below
 
 ## 1 · Introduction  
 AMEGA-LLM benchmark focuses on evaluating the adherence of large language models (LLMs) to medical guidelines. Traditional benchmarks fall short in replicating real-world clinical environments, often emphasizing isolated facts through multiple-choice questions. The AMEGA benchmark aims to provide a more comprehensive and realistic assessment by simulating clinical interactions and using an open-ended question-answering format.
